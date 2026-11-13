@@ -18,7 +18,7 @@ An end-to-end analytics project using real-world Brazilian e-commerce data.
 - Investigation of operational performance and business questions
 - Reproducible analysis with documented methodology
 
-### Career Workspace
+### [Career Workspace](https://github.com/royjhan09/career-workspace-portfolio)
 **Electron · React · TypeScript · AI-Assisted Development**
 
 An AI-powered desktop application for managing career information, discovering opportunities, and streamlining job applications.
